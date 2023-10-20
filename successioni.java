@@ -19,6 +19,6 @@ class Successioni {
             return;
         }
 
-        System.out.println("Valore della successione per il numero " + num + " vale " + succession(num));
+        System.out.println("Valore della successione per il numero " + num + ": " + succession(num));
     }
 }
